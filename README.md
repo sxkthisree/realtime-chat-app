@@ -38,13 +38,6 @@ http://localhost:3000
 
 ## Screenshots
 
-Add screenshots of:
-
-* Username prompt
-* Chat interface
-* Join notifications
-* Leave notifications
-
 ## Author
 
 Sakthi Sree
